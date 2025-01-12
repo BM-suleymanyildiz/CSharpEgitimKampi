@@ -2,7 +2,7 @@
 
 Bu repo, Murat Yücedağ'ın eğitmenliğinde tamamladığım C# Eğitim Kampı süresince geliştirdiğim ilk 10 projeyi içermektedir. Her bir proje, programlama becerilerimi pekiştirmek ve C# dilinin temel yapı taşlarını öğrenmek için hazırlanmıştır. Projelerin detayları aşağıda açıklanmıştır:
 
-✅ #Proje 1: Merhaba Dünya!
+# ✅ Proje 1: Merhaba Dünya!
 Bu ilk projede, konsol uygulamaları yazmaya başlangıç yaptım. Console.WriteLine() komutu ile konsola yazdırmayı öğrendim ve bir C# uygulamasının temel yapısını keşfettim. 
 
 ✅ #Proje 2: Değişkenler ve Veri Türleri
