@@ -49,4 +49,4 @@ Bu Projeden Kazandıklarım:
 + Windows Forms ile veri tabanındaki bilgileri görselleştirerek kullanımı kolay bir arayüz tasarladım.
 + Elde edilen verileri işleyerek projeye işlevsellik kazandırdım ve sunulan bilgileri daha etkili hale getirdim. 
 
-Bu çalışma sayesinde hem veri tabanı yönetimi hem de görselleştirme konularında önemli deneyimler kazandım. Ayrıca, C# dilindeki temel kavramları pratikte uygulama imkanı bularak bilgimi pekiştirdim. Gelecek projelerde, bu temelin üzerine yeni yetkinlikler eklemeyi hedefliyorum!🎯
+Bu çalışma sayesinde hem veri tabanı yönetimi hem de görselleştirme konularında önemli deneyimler kazandım. Ayrıca, C# dilindeki temel kavramları pratikte uygulama imkanı bularak bilgimi pekiştirdim. Gelecek projelerde, bu temelin üzerine yeni yetkinlikler eklemeyi hedefliyorum!
