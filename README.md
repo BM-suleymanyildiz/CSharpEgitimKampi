@@ -32,3 +32,5 @@ Bu projede, SqlConnection ve SqlCommand sınıflarını kullanarak bir veritaban
 ## ✅ Proje 10: Menü Sipariş Yönetim Paneli
 Bu projede, veritabanına bağlı CRUD (Create, Read, Update, Delete) işlemleri gerçekleştiren bir sistem geliştirdim. Sipariş yönetim ekranı oluşturarak kullanıcıların ürün ekleme, güncelleme ve silme işlemlerini kolayca gerçekleştirebilmesini sağladım. 
 
+## ✅ Proje 11: EfTravel İstatistik Paneli
+![Ekran Görüntüsü](./images/screenshot.png "Örnek Ekran Görüntüsü")
