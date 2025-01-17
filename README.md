@@ -35,7 +35,7 @@ Bu projede, veritabanına bağlı CRUD (Create, Read, Update, Delete) işlemleri
 ## ✅ Proje 11: EfTravel İstatistik Paneli
 ![Ekran Görüntüsü](EFTravelProject.png)
 
-Bu projede, Entity Framework kullanarak bir seyahat veri tabanına bağlanıp, bu bilgileri analiz ederek bir istatistik paneli geliştirdim. Proje, Windows Forms tabanlı bir arayüzde, kullanıcıya anlık istatistiksel bilgiler sunmayı hedefledi. 💻
+Bu projede, Entity Framework kullanarak bir seyahat veri tabanına bağlanıp, bu bilgileri analiz ederek bir istatistik paneli geliştirdim. Proje, Windows Forms tabanlı bir arayüzde, kullanıcıya anlık istatistiksel bilgiler sunmayı hedefledi. 
 
 Proje Özellikleri:
 + Toplam lokasyon, kapasite ve rehber sayısı gibi genel verilerin hesaplanması.
@@ -47,6 +47,6 @@ Proje Özellikleri:
 Bu Projeden Kazandıklarım:
 + Entity Framework ile veri tabanına bağlanma, veri sorgulama ve LINQ kullanarak filtreleme işlemlerini geliştirdim.
 + Windows Forms ile veri tabanındaki bilgileri görselleştirerek kullanımı kolay bir arayüz tasarladım.
-+ Elde edilen verileri işleyerek projeye işlevsellik kazandırdım ve sunulan bilgileri daha etkili hale getirdim. 📊
++ Elde edilen verileri işleyerek projeye işlevsellik kazandırdım ve sunulan bilgileri daha etkili hale getirdim. 
 
 Bu çalışma sayesinde hem veri tabanı yönetimi hem de görselleştirme konularında önemli deneyimler kazandım. Ayrıca, C# dilindeki temel kavramları pratikte uygulama imkanı bularak bilgimi pekiştirdim. Gelecek projelerde, bu temelin üzerine yeni yetkinlikler eklemeyi hedefliyorum! 🎯
